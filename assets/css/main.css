@@ -1,7 +1,7 @@
 body{
   font-family: 'Raleway', sans-serif;
   background: linear-gradient(0deg, rgba(197, 153, 16, 0.67), #f5af04);
-  height: 100%;
+  color:#FFF;
   background-repeat: no-repeat;
 }
 .DivTarjeta{
@@ -12,4 +12,34 @@ body{
   background-image: linear-gradient(109deg, rgba(255, 255, 255, 0)42% ,#3c3c3b 0%),url(../img/Esilva.png);
   background-repeat: no-repeat;
 }
- 
+.Logo{
+  width: 106px;
+  height: 50px;
+  position: absolute;
+  top: -8px;
+  left: 1px;
+}
+.DivNombre{
+  font-size:25px;
+  position: absolute;
+  left: 255px;
+  top: 15%;
+}
+.DivPerfil{
+  color: #F5A829;
+  font-size: 14px;
+  position: absolute;
+  left: 288px;
+  top: 28%;
+}
+.DivDatos{
+  font-size: 13px;
+  position: absolute;
+  left: 220px;
+  top: 45%;
+}
+.IconoLab{
+  position: absolute;
+  left: 447px;
+  top: 197px;
+}
