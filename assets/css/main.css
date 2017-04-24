@@ -1,6 +1,6 @@
 body{
   font-family: 'Raleway', sans-serif;
-  background: linear-gradient(0deg, red, yellow);
+  background: linear-gradient(0deg, rgba(197, 153, 16, 0.67), #f5af04);
   height: 100%;
   background-repeat: no-repeat;
 }
@@ -12,3 +12,4 @@ body{
   background-image: linear-gradient(109deg, rgba(255, 255, 255, 0)42% ,#3c3c3b 0%),url(../img/Esilva.png);
   background-repeat: no-repeat;
 }
+ 
